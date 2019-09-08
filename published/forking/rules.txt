@@ -1,0 +1,11 @@
+1. Only fork on permission! DO NOT FORK without permission!
+
+2. When forking you must leave a credits that visible to you and guests that view your program (ex. repl users)
+
+3. No matter how different your code is if your code was orginnally this code please follow number 2
+
+4. No going around these rules! Please don't say: "The rules didn't say I can't do that" or some other statement to get around these rules!
+
+5. DON'T CHANGE THE RULES!
+
+Property of NothingSoftwares

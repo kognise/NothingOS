@@ -1,0 +1,16 @@
+ABT_expected_value_not_found:
+
+This is displayed when the ABT or (After Boot Test)
+did not get the input it expected or system values that it expected to get.
+
+OS_unexpected_software_problem:
+
+This is displayed when the OS runs into a software problem. 
+example: when triggered by a security feature or app.
+
+OS_unexpected_hardware_problem:
+
+This is displayed when the OS runs into a hardware problem.
+example: not proper configuration of hardware.
+
+Property of NothingSoftwares

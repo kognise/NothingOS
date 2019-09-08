@@ -1,0 +1,7 @@
+1. sometimes put a loop in the function that gets your input. 
+
+simple example:
+
+    while(LOOPBOOL == true){
+      // your input code here
+    }

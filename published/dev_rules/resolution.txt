@@ -1,0 +1,30 @@
+//////////////////////////////
+
+1. Orginal developer must present evidence of property (eg. Picture of code, video of coding, (must be paired with other evidence to be useable) backstory or recollection)
+
+2. Accused developer must also present evidence of property (eg. Picture of code, video of coding, (must be paired with other evidence to be useable) or backstory)
+
+
+3. If either side is found guilty it will be raised under these causes: 
+
+Result 1. Photoshopping evidence or editing evidence 
+
+Result 2. Sufficent evidence of property
+
+Result 3. Same evidence (refer to 4 for actions)
+
+Result 4. Insufficent evidence or no evidence
+
+Result 5. Never perform required Resolution
+
+4.  if the conditions of Result 3 was true then code from both developers will be disabled. 
+
+5. for rules of 4 go to rules.txt
+
+6. Sufficent evidence of property means that the evidence lines up with the events and recollection or opposing party without an sufficent backstory.
+
+7. If a side is found guilty then A2 is active and the winning side can choose an optional decision
+
+//////////////////////////////
+
+Property of NothingSoftwares 

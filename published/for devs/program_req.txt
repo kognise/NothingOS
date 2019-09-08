@@ -1,0 +1,5 @@
+1. programs must start with 2 app_os_seperator calls
+
+(note: sometimes there is a exception to 1)
+
+Property of NothingSoftwares

@@ -1,0 +1,5 @@
+1. when writing your game renember to turn on needed stuff like the graphic flag or the input flags
+
+2. your games should provide the graphic routine and input handler
+
+Property of NothingSoftwares

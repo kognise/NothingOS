@@ -1,0 +1,24 @@
+1. Put program input handlers on top of the input readers
+
+
+
+
+
+
+
+BIG NOTE: DO NOT USE 2 ITS STILL A WIP!
+
+
+
+
+
+(only use 2 if you dont know where to put it)
+
+
+2. to find a location to put code do:
+      command input line number - handler line number
+  (Switch if a number is smaller)
+  (P.S if you still cant figure out it just keep the idea in the back of your head and inform the creators of the the problem patches will be released to prevent this problem)
+
+
+Property of NothingSoftwares
