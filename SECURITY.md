@@ -2,7 +2,7 @@
 
 ## Latest Version
 
-2.7.3 revision 2
+2.7.4 revision 2
 
 ## How do I check my version?
 
