@@ -12,7 +12,7 @@ then type "system"
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
+Use this section to write a vulnerability report.
 
 Report Requirements:
   
