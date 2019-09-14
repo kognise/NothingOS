@@ -4,6 +4,8 @@
 
 2.7.4 revision 2
 
+minimum verison: 2.7.5 revision 2m
+
 (note: Version might be different for minimum version)
 
 ## How do I check my version?
