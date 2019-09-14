@@ -7,3 +7,10 @@ All rules and regulations in the "published" folder should be followed!
 If you download things from this repo it means you agree to all rules and regulations in this repo.
 
 You are allowed to contribute but must follow all rules and regulations in this repo.
+
+
+
+
+## Need a lighter version? Try this!
+
+Minimum Version: https://github.com/NothingSoftwares/NothingOS-minimum
