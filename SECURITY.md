@@ -4,6 +4,8 @@
 
 2.7.4 revision 2
 
+(note: Version might be different for minimum version)
+
 ## How do I check my version?
 
 Make sure that your on /OS/usr/
